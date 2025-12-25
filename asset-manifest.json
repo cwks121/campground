@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/house/static/css/main.54b7d22b.css",
-    "main.js": "/house/static/js/main.ce528e58.js",
-    "index.html": "/house/index.html",
-    "main.54b7d22b.css.map": "/house/static/css/main.54b7d22b.css.map",
-    "main.ce528e58.js.map": "/house/static/js/main.ce528e58.js.map"
+    "main.css": "/campground/static/css/main.54b7d22b.css",
+    "main.js": "/campground/static/js/main.ce528e58.js",
+    "index.html": "/campground/index.html",
+    "main.54b7d22b.css.map": "/campground/static/css/main.54b7d22b.css.map",
+    "main.ce528e58.js.map": "/campground/static/js/main.ce528e58.js.map"
   },
   "entrypoints": [
     "static/css/main.54b7d22b.css",
